@@ -36,22 +36,31 @@ Breaking a window to gain entry can be considered what type of entry? Overt
 
 Task 3:
 Lock Picking
+
 What is the name of the tool which is used to apply torque to the core of a lock when picking?
+
 Tension Wrench
 
+
 What is the term used for picking a single pin at a time?
+
 Single Pin Picking
 
+
 What is the abbreviation commonly used to reference the above answer? SPP
+
 What is the term used when you try to randomly set pins?
+
 Raking
 
 This type of lock is typically cheap, low quality, and found on low security applications such as office desk cabinets.
+
 Wafer Lock
 
 This type of pick profile is usually used when single pin picking. : Hook
 
 When single pin picking, this term refers to when you feel like you have set a pin and the core rotates slightly
+
 False Set
 
 This type of security driver pin gives several clicks as it is being picked. Serrated
@@ -63,19 +72,28 @@ This type of security driver pin gives several clicks as it is being picked. Ser
 Task 4:
 Lock Anatomy
 
-What is the interface between the two pins in a pin stack referred to as? Shear Line
+What is the interface between the two pins in a pin stack referred to as? 
+
+Shear Line
 
 What are the pins on the bottom half of a pin stack referred to as? (you don't have to enter the word pin in the answer)
+
 Key
 
 What are the pins on the top half of a pin stack referred to as? (you don't have to enter the word pin in the answer)
+
 Driver
 
 What non-shimmable elements do padlocks use to keep the shackle in place?
+
 Ball Bearings
 
-What is the piece that allows locking lugs to retract when the core is turned? : Actuator
+What is the piece that allows locking lugs to retract when the core is turned? : 
+
+Actuator
+
 What piece of a standard door latch should remain completely depressed when the door is closed to prevent loiding/slipping of the latch?
+
 Dead latch
 
 
@@ -89,28 +107,38 @@ Deadbolt
 
 Task 5:
 Padlock Bypassing
+
 A lock which is unshielded is susceptible to what bypass tool?
+
 Knife
 
 A lock which has spring loaded locking lugs rather than ball bearings can be bypassed with what tool?
+
 Shim
 
 Combination locks such as the Master-lock 5400D are susceptible to a bypass which reveals the combination What is this method known as?
+
 Decoding
 
 The Master-lock 175 is infamous for its ability to be bypassed using what type of bypass?
+
 Mini Knife
 
 
 What bypass method uses a key cut to the lowest depths and kinetic energy to bounce the driver pins above the shear line and allow a lock to be opened?
+
 Bumping
 
 Locks which have spring loaded locking lugs can be opened by tapping a hammer on the side of the lock. What is this attack method called?
+
 Rapping
+
 What type of pick takes advantage of lazy manufacturing practices by lifting all the key pins and driver pins above the shear line to bypass a lock?
+
 Comb
 
 What tools can be wiggled inside the keyway of wafer locks to roughly simulate the biting of the key and open the lock?
+
 Jiggler
 
 
@@ -120,9 +148,11 @@ Jiggler
 Task 6: Hardware Bypassing
 
 What tool is used to reach under a door and actuate a handle from the interior?
+
 Under The Door Tool
 
 What tool can be used to bypass a set of double doors which have a crash bar on the secure side?
+
 Double Door Tool
 
 
@@ -131,6 +161,7 @@ What item can be used to widen the gaps between doors and door frames or between
 
 
 An improperly hung door which opens away from you can be bypassed using this type of tool?
+
 Shim
 
 An improperly hung door which opens away from you can be bypassed using this type of tool?
