@@ -12,14 +12,27 @@ https://www.youtube.com/watch?v=sw94smSiJBY&feature=emb_logo
 
 https://www.youtube.com/watch?v=rnmcRTnTNC8&feature=emb_logo
 
+
+
+
+
 Task 2:
 Learn the different methods of entry
+
 Using an angle grinder to cut a lock open is what type of entry? Overt
+
 Lock picking could be considered what type of entry? Covert
+
 Lock bypassing can be considered what type of entry? Covert
+
 Taking a photo of a key, decoding it and duplicating it can be considered what type of entry? Surreptitious
+
 Determining the combination of a safe through surveillance can be considered what type of entry? Surreptitious
+
 Breaking a window to gain entry can be considered what type of entry? Overt
+
+
+
 
 Task 3:
 Lock Picking
@@ -43,6 +56,10 @@ False Set
 
 This type of security driver pin gives several clicks as it is being picked. Serrated
 
+
+
+
+
 Task 4:
 Lock Anatomy
 
@@ -64,6 +81,11 @@ Dead latch
 
 What is the locking mechanism that has a bolt which protrudes into the frame of the door preventing it from opening?
 Deadbolt
+
+
+
+
+
 
 Task 5:
 Padlock Bypassing
@@ -90,6 +112,10 @@ Comb
 
 What tools can be wiggled inside the keyway of wafer locks to roughly simulate the biting of the key and open the lock?
 Jiggler
+
+
+
+
 
 Task 6: Hardware Bypassing
 
